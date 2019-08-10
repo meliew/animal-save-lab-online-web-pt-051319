@@ -8,7 +8,7 @@ html {
   right: 0;
 }
 
-@media (max-size 1195px) {
+@media (max-width 1195px) {
 
   #ostrich {top: 150px}
 }
