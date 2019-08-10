@@ -10,7 +10,7 @@ html {
 
 @media (min-size 1195px) {
 
-  left: 800px
+  #bear {left: 800px}
 }
 
 /* Write your solution here */
