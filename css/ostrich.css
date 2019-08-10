@@ -8,5 +8,9 @@ html {
   right: 0;
 }
 
-/* Write your solution here */
+@media (max-size 1195px) {
 
+  #ostrich {top: 150px}
+}
+
+/* Write your solution here */
