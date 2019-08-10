@@ -8,5 +8,10 @@ html {
   right: 0;
 }
 
+@media (min-size 1195px) {
+
+  left: 800px
+}
+
 /* Write your solution here */
 
